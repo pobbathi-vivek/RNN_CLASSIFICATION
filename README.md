@@ -1,3 +1,4 @@
 # RNN_CLASSIFICATION
 
-Only share your extreme feelings
+Review Analysis.
+Only share your extreme feelings. Give maximum 4 to 5 words sentences.
